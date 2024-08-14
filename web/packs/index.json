@@ -1,6 +1,7 @@
 {
   "packs": [
-    "fatcat.json"
+    "fatcat.json",
+    "memes.json"
   ],
   "homeserver_url": "https://staging.matrix.blender.org"
 }
